@@ -415,7 +415,7 @@ body {
 /* --- Footer Section --- */
 .footer {
     background-color: #0f0524;
-    background-image: url('/assets/footer-bg.png');
+    background-image: url('./assets/footer-bg.png');
     background-position: center;
     overflow: hidden;
     display: flex;
